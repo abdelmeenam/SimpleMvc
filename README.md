@@ -1,3 +1,3 @@
 # SimpleMvc
-----Mini MVC Structure----
+Mini MVC Structure
 You can use this structure and build your MVC project 
